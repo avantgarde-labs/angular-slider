@@ -1,0 +1,22 @@
+{
+  "name": "angular-slider",
+  "version": "0.1.6-1-avgl",
+  "description": "Slider directive implementation for AngularJS, without jQuery dependencies.",
+  "main": ["./angular-slider.css", "./angular-slider.js"],
+  "license": "MIT",
+  "ignore": [
+    "node_modules",
+    "src",
+    "build.sh",
+    "package.json",
+    ".git/*",
+    ".gitignore"
+  ],
+  "keywords": [
+    "angular",
+    "slider",
+    "jquery",
+    "jquery-ui"
+  ],
+  "private": true
+}
