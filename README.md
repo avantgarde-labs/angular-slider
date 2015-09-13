@@ -1,6 +1,8 @@
 DEPRECATED
 ==========
 
+[![Join the chat at https://gitter.im/avantgarde-labs/angular-slider](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/avantgarde-labs/angular-slider?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 I am unable to maintain or update this repository any more. If you know more well maintained forks, let me know so I can link it here.
 
 Venturocket: http://github.com/venturocket/angular-slider
